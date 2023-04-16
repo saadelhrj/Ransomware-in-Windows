@@ -12,4 +12,4 @@ The Code is AWFUL LOL but bare with me, It's my first .</p>
 <p> You might need to link the "comdlg32" lib in order to use the Openfile dialog box. Don't take risk and Make sure to use disposable test files.</p>
 
 <h1> POC </h1>
-![Alt Text](./Poc/Poc.mp4)
+Video of the usage in Poc.mp4
